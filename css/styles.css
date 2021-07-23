@@ -37,3 +37,12 @@ body{font-family: 'Montserrat', sans-serif;}
     padding-bottom: 2%;
     padding-top: 2%;
 } 
+#development{
+    text-align: center;
+}
+#design{
+    text-align: center
+}
+#product{
+    text-align: center;
+}
