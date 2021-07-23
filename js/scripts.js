@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function(event){
     $(".click1").click(function(){
         $(".togglepara1").toggle(3000);
     });
@@ -8,4 +8,7 @@ $(document).ready(function(){
     $(".click3").click(function(){
         $(".togglepara3").toggle(3000);
     });
+
+    
+    event.preventDefault();
 });
