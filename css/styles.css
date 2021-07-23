@@ -1,4 +1,4 @@
-
+body{font-family: 'Montserrat', sans-serif;}
 #toppage{
     background-image: url('/Assets/topbg.jpg');
     height:750px;
@@ -11,4 +11,29 @@
 #mouse{
     bottom: 5%;
     position: absolute;
+}
+.about{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: whitesmoke;
+    position: sticky;
+}
+.services{
+    background-image: url('/Assets/middlebg.jpg');
+    text-align: center;
+    height: 375px;
+    color: white;
+    padding-top: 5%;
+    position: relative;
+}
+#whatwedo{
+    text-align: center;
+    padding-top: 2%;
+}
+#toggleimages{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 2%;
+    padding-top: 2%;
 }
