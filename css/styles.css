@@ -1,0 +1,14 @@
+
+#toppage{
+    background-image: url('/Assets/topbg.jpg');
+    height:750px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    position: relative;
+    
+}
+#mouse{
+    bottom: 5%;
+    position: absolute;
+}
