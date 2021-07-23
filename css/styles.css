@@ -66,6 +66,19 @@ h6{
     max-height: 100%;
 }
 
+#hover1,#hover2,#hover3,
+#hover4,#hover5,#hover6,
+#hover7,#hover8{
+border:5px solid white;
+color:white;
+background-color:transparent;
+margin-top: 2%;
+width: 150px;
+height: 100px;
+text-align: center;
+font-size: x-large;
+display: none;
+}
 
 
 
