@@ -152,6 +152,9 @@ input,textarea{
     align-items: center;
     text-align: center;
 }
+#footerimages>img{
+    padding: 4px;
+}
 
 
 
