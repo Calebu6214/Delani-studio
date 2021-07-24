@@ -1,4 +1,5 @@
-body{font-family: 'Montserrat', sans-serif;}
+body{font-family: 'Montserrat', sans-serif;
+background-color: transparent;}
 #toppage{
     background-image: url('/Assets/topbg.jpg');
     height:750px;
