@@ -144,6 +144,14 @@ input,textarea{
     margin-left: 40%;
     padding-top: 2%;
 }
+#footerimages{
+    padding-top: 3%;
+    text-align: center; 
+}
+.studio{
+    align-items: center;
+    text-align: center;
+}
 
 
 
