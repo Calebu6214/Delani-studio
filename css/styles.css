@@ -21,7 +21,7 @@ background-color: transparent;}
     position: sticky;
 }
 .services{
-    background-image: url('/Assets/middlebg.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
     text-align: center;
     height: 375px;
     color: white;
@@ -123,7 +123,7 @@ h6{
     cursor: pointer;
 }
 #contact{
-    background-image: url('/Assets/downbg.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
     
 }
 form{
