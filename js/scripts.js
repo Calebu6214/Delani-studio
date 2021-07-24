@@ -57,5 +57,15 @@ $(document).ready(function(event){
     $("#img8").mouseout(function(){
         $("#hover8").hide();
     });
+    $("#submit").click(function () {
+        var yourFullName = $("#name").val();
+        var yourEmail = $("#email").val();
+        var yourMessage = $("#message").val();
+        if (yourFullName == '' || yourEmail == '' || yourMessage == '') {
+            alert("check all fields");
+        } else {
+            alert("Successfully Submitted!");
+        }
+    })
     event.preventDefault();
 });
