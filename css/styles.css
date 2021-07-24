@@ -1,6 +1,7 @@
-body{font-family: 'Montserrat', sans-serif;}
+body{font-family: 'Montserrat', sans-serif;
+background-color: transparent;}
 #toppage{
-    background-image: url('/Assets/topbg.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
     height:750px;
     color: white;
     text-align: center;
@@ -20,7 +21,7 @@ body{font-family: 'Montserrat', sans-serif;}
     position: sticky;
 }
 .services{
-    background-image: url('/Assets/middlebg.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
     text-align: center;
     height: 375px;
     color: white;
@@ -122,7 +123,7 @@ h6{
     cursor: pointer;
 }
 #contact{
-    background-image: url('/Assets/downbg.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
     
 }
 form{
